@@ -1,4 +1,4 @@
-# Azki Insurance Analytics Platform
+# Insurance Analytics Platform
 
 A comprehensive data engineering solution for real-time user behavior analytics and insurance business intelligence. This platform processes user events and combines them with user dimension data to provide actionable insights for the insurance aggregation business.
 
