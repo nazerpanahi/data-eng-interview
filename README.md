@@ -38,7 +38,7 @@ This solution implements a modern data lakehouse architecture with the following
 
 1. **Clone and navigate to the project**
    ```bash
-   cd "Azki - Senior DE Hiring Task/code"
+   cd "project"
    ```
 
 2. **Setup Python environment**
